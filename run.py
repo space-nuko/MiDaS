@@ -3,7 +3,7 @@
 import os
 import glob
 import torch
-import utils
+import midas_utils as utils
 import cv2
 import argparse
 import time
